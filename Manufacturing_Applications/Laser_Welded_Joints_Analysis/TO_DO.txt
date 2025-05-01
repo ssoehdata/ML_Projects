@@ -1,0 +1,10 @@
+TO DO: 
+[] write up all steps / describe + motivation etc as you complete them 
+[] the following sections; () data exploration and initial observations, hypothesis to explore () data cleaning 
+                           () model prep (e.g. data splitting for testing etc) + basic theory behind the model / technique 
+                           () results, observations , findings and conclusions
+[] exploratory stage
+[] cleaning 
+[] model prep + general outline /aims  off
+[] if account for applicable false positives (e.g.  
+[] results + conclusions 
