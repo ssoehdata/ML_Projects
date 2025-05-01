@@ -6,5 +6,5 @@ TO DO:
 [] exploratory stage
 [] cleaning 
 [] model prep + general outline /aims  off
-[] if account for applicable false positives (e.g.  
+[] if account for applicable false positives (e.g.  white noise model https://timeseriesreasoning.com/contents/white-noise-model/ )
 [] results + conclusions 
