@@ -15,7 +15,6 @@
 		The test and results can be viewed in the CTR_ABTest.ipynb file included in this repository.
 </p>
 	
-
-[Notebook](/https://github.com/ssoehdata/ML_Projects/edit/main/Sales_Marketing_Applications/CTR_ABTest.ipynb)
+#### *click on the link to the CTR_ABTest file below* 
 
 [Notebook](CTR_ABTest.ipynb)
