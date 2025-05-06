@@ -10,3 +10,7 @@
 		The dataset is split into two groups of varying age ranges as well as four age group subsets 
 		to examine any CTR relationships as a function of age. 
 </p>
+
+<p align="center">
+		The test and results can be viewed in the CTR_ABTest file included in this repository.
+</p>
