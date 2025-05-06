@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-		The test and results can be viewed in the CTR_ABTest file included in this repository.
+		The test and results can be viewed in the CTR_ABTest.ipynb file included in this repository.
 </p>
 	
 
