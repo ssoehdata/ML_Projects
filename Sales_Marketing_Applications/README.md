@@ -1,4 +1,4 @@
-### An AB test on the kaggle data set 
+### An AB test on the kaggle KAG_conversions data set 
 
 #### Aims:
 <p align="center">
