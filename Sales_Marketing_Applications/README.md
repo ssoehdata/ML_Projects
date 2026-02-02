@@ -15,6 +15,6 @@
 		The test and results can be viewed in the CTR_ABTest.ipynb file included in this repository.
 </p>
 	
-#### *click on the link to the CTR_ABTest file below* 
+#### *click on the link below to view the CTR_ABTest file* 
 
 [Notebook](CTR_ABTest.ipynb)
