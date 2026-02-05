@@ -1,0 +1,16 @@
+performed some intial exploration of the dataset by creating a postgres database and performing some 
+intial queries on the dataset. 
+
+SELECT 
+COUNT(drug_name), 
+drug_name
+FROM drug_treatment 
+GROUP BY drug_name 
+ORDER BY drug_name ASC
+;
+
+
+
+Included images: 
+- screenshot of pgadmin including a sql query for total counts of drug types by drug name included in the data
+- a zoomed in graph of the drug types (graph_2)
