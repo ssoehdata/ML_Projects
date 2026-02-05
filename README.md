@@ -4,5 +4,7 @@ Projects for exploring various Machine Learning techniques and tools
 
 ###  Project List 
 <ul>
+  <li>Real Drug Data Analysis (Domain Use-Case: Medicine and Public Health Analysis)</li>
+  <li>AB Click-Through-Rate Test (Domain Use-Case: Online Sales and Marketing Metrics for Email Campaigns)</li>
   <li>Laser Welded Joints Analysis (Domain Use-Case: Manufacturing Industry)</li>
 </ul>
